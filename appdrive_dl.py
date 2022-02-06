@@ -8,7 +8,7 @@ url = "" # file url
 # Website User Account (NOT GOOGLE ACCOUNT) ----
 account = {
     'email': '', 
-    'passwd': ''
+    'pwssd': ''
 }
 
 # Destination config ----
